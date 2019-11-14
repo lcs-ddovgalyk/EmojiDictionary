@@ -13,6 +13,7 @@
 		B98C016A237CEA9C0025A6B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B98C0169237CEA9C0025A6B0 /* Assets.xcassets */; };
 		B98C016D237CEA9C0025A6B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B98C016B237CEA9C0025A6B0 /* LaunchScreen.storyboard */; };
 		B98C0175237CEBC90025A6B0 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98C0174237CEBC90025A6B0 /* Emoji.swift */; };
+		B98C0177237CEE650025A6B0 /* EmojiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98C0176237CEE650025A6B0 /* EmojiTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B98C016C237CEA9C0025A6B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B98C016E237CEA9C0025A6B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B98C0174237CEBC90025A6B0 /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
+		B98C0176237CEE650025A6B0 /* EmojiTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B98C016B237CEA9C0025A6B0 /* LaunchScreen.storyboard */,
 				B98C016E237CEA9C0025A6B0 /* Info.plist */,
 				B98C0174237CEBC90025A6B0 /* Emoji.swift */,
+				B98C0176237CEE650025A6B0 /* EmojiTableViewController.swift */,
 			);
 			path = EmojiDictionary2;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B98C0177237CEE650025A6B0 /* EmojiTableViewController.swift in Sources */,
 				B98C0175237CEBC90025A6B0 /* Emoji.swift in Sources */,
 				B98C0161237CEA9A0025A6B0 /* AppDelegate.swift in Sources */,
 				B98C0163237CEA9A0025A6B0 /* SceneDelegate.swift in Sources */,
