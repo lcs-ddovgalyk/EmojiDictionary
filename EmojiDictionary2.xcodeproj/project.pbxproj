@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		B98C0161237CEA9A0025A6B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98C0160237CEA9A0025A6B0 /* AppDelegate.swift */; };
 		B98C0163237CEA9A0025A6B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98C0162237CEA9A0025A6B0 /* SceneDelegate.swift */; };
-		B98C0165237CEA9A0025A6B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98C0164237CEA9A0025A6B0 /* ViewController.swift */; };
 		B98C0168237CEA9A0025A6B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B98C0166237CEA9A0025A6B0 /* Main.storyboard */; };
 		B98C016A237CEA9C0025A6B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B98C0169237CEA9C0025A6B0 /* Assets.xcassets */; };
 		B98C016D237CEA9C0025A6B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B98C016B237CEA9C0025A6B0 /* LaunchScreen.storyboard */; };
@@ -19,7 +18,6 @@
 		B98C015D237CEA9A0025A6B0 /* EmojiDictionary2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmojiDictionary2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B98C0160237CEA9A0025A6B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B98C0162237CEA9A0025A6B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		B98C0164237CEA9A0025A6B0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B98C0167237CEA9A0025A6B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B98C0169237CEA9C0025A6B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B98C016C237CEA9C0025A6B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +56,6 @@
 			children = (
 				B98C0160237CEA9A0025A6B0 /* AppDelegate.swift */,
 				B98C0162237CEA9A0025A6B0 /* SceneDelegate.swift */,
-				B98C0164237CEA9A0025A6B0 /* ViewController.swift */,
 				B98C0166237CEA9A0025A6B0 /* Main.storyboard */,
 				B98C0169237CEA9C0025A6B0 /* Assets.xcassets */,
 				B98C016B237CEA9C0025A6B0 /* LaunchScreen.storyboard */,
@@ -138,7 +135,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B98C0165237CEA9A0025A6B0 /* ViewController.swift in Sources */,
 				B98C0161237CEA9A0025A6B0 /* AppDelegate.swift in Sources */,
 				B98C0163237CEA9A0025A6B0 /* SceneDelegate.swift in Sources */,
 			);
